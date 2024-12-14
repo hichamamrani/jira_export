@@ -1,0 +1,14 @@
+{
+    "name": "MoonChimp",
+    "symbol": "Chimp",
+    "description": "A meme coin featuring a cheeky chimpanzee aiming for the moon. It plays on the crypto slang “to the moon,” while the chimp character adds a playful, approachable touch. The branding can leverage cute or mischievous chimp imagery, appealing to a broad audience of meme enthusiasts.",
+    "image": "https://i.ibb.co/SmFTg2H/moonchimp.jpg",
+    "attributes": [
+      { "trait_type": "Creator", "value": "Fortuna" },
+      { "trait_type": "Community", "value": "100%" },
+      { "trait_type": "Humor", "value": "Infinite" }
+    ],
+    "properties": {
+      "files": [{ "uri": "https://i.ibb.co/SmFTg2H/moonchimp.jpg", "type": "image/jpg" }]
+    }
+  }
