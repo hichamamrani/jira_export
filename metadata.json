@@ -6,9 +6,18 @@
     "attributes": [
       { "trait_type": "Creator", "value": "Fortuna" },
       { "trait_type": "Community", "value": "100%" },
-      { "trait_type": "Humor", "value": "Infinite" }
+      { "trait_type": "Humor", "value": "Infinite" },
+      { "trait_type": "Background", "value": "Moon"}
     ],
     "properties": {
-      "files": [{ "uri": "https://i.ibb.co/SmFTg2H/moonchimp.jpg", "type": "image/jpg" }]
-    }
+      "files": [{ "uri": "https://i.ibb.co/SmFTg2H/moonchimp.jpg", "type": "image/jpg" }],
+      "creators": [
+        {
+          "address": "YOUR_WALLET_PUBLIC_KEY",
+          "share": 100
+        }
+      ]
+    },
+    "seller_fee_basis_points": 500,
+    "external_url": "https://algobots.co.uk"
   }
